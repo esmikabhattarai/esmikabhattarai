@@ -1,4 +1,4 @@
-<h1 align="center">Namaste🙏 I'm Esmika Bhattarai.</h1>
+<h1 align="center">Hi,I'm Esmika Bhattarai.</h1>
 <h3 align="center">An enthusiastic self learner.</h3>
 <img align="right"alt="coding"width="400"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
